@@ -9,5 +9,5 @@ def inicio():
     return f'<h1>{mensagem}</h1><p>Aula de PaaS</p>'
 
 @app.route('/sobre')
-def sobre();
+def sobre():
     return 'Computacao em Nuvem - FASF'
